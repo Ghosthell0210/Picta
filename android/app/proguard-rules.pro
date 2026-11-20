@@ -1,0 +1,4 @@
+-keepattributes *Annotation*,Signature,InnerClasses,EnclosingMethod
+-keep class cu.picta.pulse.data.model.** { *; }
+-keepclassmembers class cu.picta.pulse.data.model.** { *; }
+-dontwarn kotlinx.serialization.**

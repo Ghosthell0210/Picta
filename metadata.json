@@ -1,0 +1,6 @@
+{
+  "name": "Picta Pulse",
+  "description": "Cliente alternativo rápido y optimizado para Picta conectado en tiempo real a api.picta.cu con reproducción HLS fluida, comentarios, listas y descargas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
